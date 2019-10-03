@@ -1,6 +1,10 @@
 Your Credentials
 
-usernameuser_x2bdl2ektokenx399ll09skngsilp_over_http_urlhttps://rs3.xpring.dev/ilpilp_over_btp_urlbtp+wss://rs3.xpring.dev/ilp/btppayment_pointer$rs3.xpring.dev/accounts/user_x2bdl2ek/spspasset_codeXRPasset_scale9
+username user_x2bdl2ek
+token x399ll09skngs
+ilp_over_http_url https://rs3.xpring.dev/ilp
+ilp_over_btp_url btp+wss://rs3.xpring.dev/ilp/btp
+payment_pointer $rs3.xpring.dev/accounts/user_x2bdl2ek/spspasset_codeXRPasset_scale9
 
 Send a Payment
 
